@@ -1,13 +1,14 @@
 <h1 align="center">Hi 👋, I'm Aly Taha</h1>
-<h3 align="center">A passionate Android Developer from Egypt</h3>
+<h3 align="center">A passionate DevOps Engineer from Egypt</h3>
 
-- 🔭 I’m currently working on [Nasa Mobile Application](https://github.com/alytaha46/NasaApp)
+- 🔭 I’m currently working on [pipeline]
+- (https://github.com/alytaha46/ITI-Pipeline)
 
-- 🌱 I’m currently learning **Jetpack Compose Android**
+- 🌱 I’m currently learning **AWS Solution architect**
 
 - 👨‍💻 All of my projects are available at [website](website)
 
-- 💬 Ask me about **Android, Kotlin, MVVM,**
+- 💬 Ask me about **aws, terraform, jenkins, ansible, k8s**
 
 - 📫 How to reach me **alytaha46@gmail.com**
 
