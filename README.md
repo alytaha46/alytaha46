@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aly Taha</h1>
 <h3 align="center">A passionate DevOps Engineer from Egypt</h3>
 
-- 🔭 I’m currently working on [pipeline]
-- (https://github.com/alytaha46/ITI-Pipeline)
+- 🔭 I’m currently working on [pipeline](https://github.com/alytaha46/ITI-Pipeline)
 
 - 🌱 I’m currently learning **AWS Solution architect**
 
